@@ -1,5 +1,5 @@
 # Youtube-Time-Counter
-The script crawler.py go into someone's Youtube profile and sums all the video time they has and displays it in the terminal.
+The script crawler.py go into someone's Youtube profile and sums all the video time they have and displays it in the terminal.
 
 <h2>Dependencies</h2>
 <p>You must install some dependencies before running the code:</p>
